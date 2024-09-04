@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Kaif Khan
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently pursuing B.TECH CSE(3rd year)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently pursuing B.TECH CSE (3rd year)
+- 💞️ I’m looking to collaborate on Nothing 
 - 📫 Instagram: @iammkaifkhan
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Software Engineer to be in 2026 (In'Sha'Allah)
